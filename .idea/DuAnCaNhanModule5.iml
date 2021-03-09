@@ -114,6 +114,9 @@
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/facade/ignition" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/facade/flare-client-php" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/namshi/jose" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/lcobucci/jwt" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
